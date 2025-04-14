@@ -1,0 +1,6 @@
+{
+    "name": "awan/test-package",
+    "description": "Belajar membuat package php",
+    "type": "library",
+    "require": {}
+}
