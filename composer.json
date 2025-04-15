@@ -1,11 +1,11 @@
 {
-    "name": "awan/test-package",
+    "name": "bartelsi/test-package",
     "description": "Belajar membuat package php",
     "type": "library",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Awan\\TestPackage\\": "src\\"
+            "Bartelsi\\TestPackage\\": "src\\"
         }
     }
 }

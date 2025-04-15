@@ -1,6 +1,6 @@
 <?php
 
-namespace Awan\TestPackage;
+namespace Bartelsi\TestPackage;
 
 class Human
 {
